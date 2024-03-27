@@ -13,6 +13,7 @@ import {
   useUnclaimedNFTSupply,
   Web3Button,
 } from "@thirdweb-dev/react";
+import { SwanSaturnTestnet } from "@thirdweb-dev/chains";
 import { BigNumber, utils } from "ethers";
 import { useMemo, useState } from "react";
 import { HeadingImage } from "./components/HeadingImage";
