@@ -6,7 +6,7 @@ export const contractConst = "0x466758abaACD07f569CDcf37637599fC772c0635";
 
 // The name of the chain your contract is deployed to.
 // Refer to README.md on how to specify the chain name.
-export const chainConst = "Swan Saturn Testnet";
+export const chainConst = "SwanSaturnTestnet";
 
 // It is IMPORTANT to provide your own API key to use the thirdweb SDK and infrastructure.
 // Please ensure that you define the correct domain for your API key from the API settings page.
